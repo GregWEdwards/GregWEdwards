@@ -11,7 +11,8 @@
 Hi! My name is Greg Edwards.
 * :man: My preferred pronouns are he/him/his
 * ⌨️ I'm a software engineer with experience contributing to the full stack, but especially front end, for developing web applications
-* :house: I'm a Bostonian presently, but was born and raised in Pennsylvania!
+* 👨‍🎓 I'm a lifelong learner, always hungry to develop my existing skills and pick up new ones, too. Learning is one of my favorite things to do!
+* :house: I'm a Cantabrigian presently, but was born and raised in Pennsylvania!
 ## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
